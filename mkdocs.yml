@@ -4,5 +4,3 @@ theme: readthedocs
 nav:
   - Accueil: index.md
   - DataSources : sources.md
-  - Présentation de Zone SGAMI ouest : pre.md
-

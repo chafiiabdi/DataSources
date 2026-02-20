@@ -4,7 +4,7 @@
 
 La Préfecture de zone SGAMI Ouest (Sous-direction générale pour l’administration et la modernisation de l’intérieur – Ouest) est un établissement public relevant du Ministère de l’Intérieur, chargé de la coordination des services de gendarmerie sur son territoire. Elle assure le lien entre l’administration centrale et les unités locales, et veille à la bonne application des politiques de sécurité intérieure.
 
-[Image](./img/pref.jpg)
+![Carte des préfectures et sous-préfectures de la zone Ouest](./img/pref.jpg)
 
 ## Missions principales
 
