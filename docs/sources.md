@@ -5,10 +5,11 @@ Les Services Départementaux d’Incendie et de Secours (SDIS) fournissent des i
 
 
 
-## Polices Zone Ouest
+## Direction générale de la sécurité civile et de la gestion des crises
 
-Les forces de police locales apportent des données sur la sécurité publique, les patrouilles, les incidents et les dispositifs spécifiques aux zones urbaines et rurales. Ces informations sont essentielles pour les analyses de sécurité et les missions de coordination avec les autres services.
-![Police](./img/police.jpg)
+La plateforme SYNAPSE distribue des applications géo-décisionnelles partagées et collaboratives au profit de la chaîne territoriale de planification et de gestion de crises (échelons départemental, zonal et national) et des acteurs interministériels (CO Ministériels), permettant d'offrir une vision globale des situations lors d'évènements sur le territoire national.
+
+![DGSCGC](./img/minis.png) 
 
 ## Gendarmerie Zone Ouest
 
@@ -18,9 +19,9 @@ Les unités de gendarmerie fournissent des informations sur les effectifs, les i
 
 Le Secrétariat Général pour l’Administration du Ministère de l’Intérieur – zone Ouest regroupe et diffuse des informations administratives et logistiques essentielles pour la gestion des moyens humains et matériels de la gendarmerie.
 
-Direction de l’immobilier : fournit des données sur les bâtiments et infrastructures des unités, y compris les casernes, dépôts et sites administratifs.
+### Direction de l’immobilier : fournit des données sur les bâtiments et infrastructures des unités, y compris les casernes, dépôts et sites administratifs.
 
-Direction logistique et ressources : informations sur la distribution et la maintenance des équipements, véhicules et autres moyens nécessaires aux missions.
+### Direction logistique et ressources : informations sur la distribution et la maintenance des équipements, véhicules et autres moyens nécessaires aux missions.
 
 ![SGAMI](./img/pref.jpg)
 
