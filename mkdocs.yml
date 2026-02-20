@@ -1,3 +1,5 @@
 site_name: My DataSources
 docs_dir: docs
 theme: readthedocs
+nav:
+  - Accueil: index.md
