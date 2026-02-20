@@ -22,7 +22,7 @@ Direction de l’immobilier : fournit des données sur les bâtiments et infrast
 
 Direction logistique et ressources : informations sur la distribution et la maintenance des équipements, véhicules et autres moyens nécessaires aux missions.
 
-![SGAMI](./img/sgami.jpg)
+![SGAMI](./img/pref.jpg)
 
 ## Préfectures de zone Ouest
 
@@ -40,7 +40,7 @@ Les DREAL, DDT et DDTM fournissent des données géographiques, environnementale
 
 L’IGN fournit des données géographiques et cartographiques précises, y compris les cartes topographiques, limites administratives, réseaux routiers et données altimétriques, essentielles pour la planification des missions et la géolocalisation des unités.
 
-![IGN](./img/ign.jpg)
+![IGN](./img/im.png)
 
 ## Carte.gouv.fr
 
