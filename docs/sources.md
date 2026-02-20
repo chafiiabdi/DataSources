@@ -19,9 +19,11 @@ Les unités de gendarmerie fournissent des informations sur les effectifs, les i
 
 Le Secrétariat Général pour l’Administration du Ministère de l’Intérieur – zone Ouest regroupe et diffuse des informations administratives et logistiques essentielles pour la gestion des moyens humains et matériels de la gendarmerie.
 
-### Direction de l’immobilier : fournit des données sur les bâtiments et infrastructures des unités, y compris les casernes, dépôts et sites administratifs.
+### Direction de l’immobilier : 
+Fournit des données sur les bâtiments et infrastructures des unités, y compris les casernes, dépôts et sites administratifs.
 
-### Direction logistique et ressources : informations sur la distribution et la maintenance des équipements, véhicules et autres moyens nécessaires aux missions.
+### Direction logistique et ressources : 
+Informations sur la distribution et la maintenance des équipements, véhicules et autres moyens nécessaires aux missions.
 
 ![SGAMI](./img/pref.jpg)
 
