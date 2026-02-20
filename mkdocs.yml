@@ -3,3 +3,6 @@ docs_dir: docs
 theme: readthedocs
 nav:
   - Accueil: Index.md
+  - DataSources : Sources.md
+  - Présentation de Zone SGAMI ouest : Pre.md
+
