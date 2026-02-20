@@ -45,5 +45,5 @@ Chaque service joue un rôle essentiel pour assurer le bon fonctionnement de la 
 
 ## Territoire couvert
 
-La zone Ouest comprend de nombreux départements couvrant plusieurs régions administratives de l’ouest de la France, rassemblés pour permettre une gestion cohérente et coordonnée des actions de l’État.
+La zone Ouest comprend 20 départements couvrant 4 régions administratives de l’ouest de la France (Bretagne, Normandie, Centre-Val-de-Loire, Pays-de-la-Loire), rassemblés pour permettre une gestion cohérente et coordonnée des actions de l’État.
 
