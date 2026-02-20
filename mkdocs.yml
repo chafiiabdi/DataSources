@@ -2,7 +2,7 @@ site_name: My DataSources
 docs_dir: docs
 theme: readthedocs
 nav:
-  - Accueil: Index.md
-  - DataSources : Sources.md
-  - Présentation de Zone SGAMI ouest : Pre.md
+  - Accueil: index.md
+  - DataSources : sources.md
+  - Présentation de Zone SGAMI ouest : pre.md
 
