@@ -1,11 +1,11 @@
 # Interoperabilité
 
-## Open Geospatial Consortium (OGC)
+## Les normes 
 
 
-<p align="center">
-  <img src="./img/interop_iso.png" alt="Interopérabilité" width="200">
-</p>
+
+![iso](./img/interop_iso.png)
+
 
 L'Organisation internationale de normalisation (dont le nom court est ISO) est un organisme de normalisation international composé de représentants l'organisations nationales de normalisation de 165 pays.
 
@@ -33,15 +33,16 @@ https://www.iso.org/fr/committee/54904/x/catalogue/
 
 Ces normes peuvent spécifier, pour l'information géographique, des méthodes, outils et services pour la gestion de données (y compris leur définition et leur description), l’acquisition, le traitement, l'analyse, l'accès, la présentation et le transfert de ces données sous forme numérique / électronique entre les différents utilisateurs, systèmes et sites.
 
-<p align="center">
-  <img src="./img/interop_inspire.png" alt="Interopérabilité" width="200">
-</p>
+
+
+![interop_inspire.png](./img/interop_inspire.png)
 
 
 ## Open Geospatial Consortium (OGC)
-<p align="center">
-  <img src="./img/ogc_1.png" alt="Interopérabilité" width="500">
-</p>
+
+![interop_inspire.png](./img/ogc_1.png)
+
+
 
 Organisation internationale à but non lucratif dédiée au développement des systèmes ouverts en géomatique.
 
