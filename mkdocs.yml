@@ -4,4 +4,4 @@ theme: readthedocs
 nav:
   - Accueil: index.md
   - DataSources : sources.md
-  - Interoperabilité : intero
+  - Interoperabilité : xintero.md
